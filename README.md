@@ -40,26 +40,19 @@ hopefully, we will get to work together at somepoint, and i get to update that 0
 
 </p>
 
+<div align="center">
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan-Karimipour&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact'>
+</div>
+
 <h2 align="center">
   <img justify-self="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ4ZWQzNTg5YTYwNDFjMTYzOGJhNzE4MzIzNmM4NDU1ZDA3NjI5YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WZ4M8M2VbauEo/giphy.gif" width="300px"/>
 </h2>
-<h2 align="center"> All the links you have ever wanted! 👇 <br></h2>
+<h2 align="center"> My accounts on social media 👇 <br></h2>
 
 <p align="center">
   <a href="https://twitter.com/@Everos__E" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="My       Twitter" height="30" width="40" /></a>
   <a href="https://www.instagram.com/everos.e.yt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"     alt="My Instagram" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/erfan-karimipour-b4b64126a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linked In" height="30" width="40" /></a>
 </p>
-<!-- **Erfan-Karimipour/Erfan-Karimipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
