@@ -15,7 +15,7 @@
 
    - 👨‍🎓 Im 19 years old, and im currently studing Computer Engineering in university. <br>
    - ⚛ I learend JS and ReactJS in a Bootcamp (Maktab Sharif) which led me to writing this page, right now. <br>
-   - 🌱 I’m currently learning Next js
+   - 🌱 I’m currently learning Redux
    - ✉ You can contact me from programming1402@gmail.com or just send a direct massage in my Instagram/LinkIn
    - 🏢 I have worked in exatly 0 companies! (Really proud of that one 😂) 
 
