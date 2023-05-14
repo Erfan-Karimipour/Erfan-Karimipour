@@ -20,13 +20,36 @@
 
 hopefully, we will get to work together at somepoint, and i get to update that 0 to 1 🙂 <br><br>
 
-<h2 align="center"> All the links you have ever wanted! 👇 </h2>
+<h2 align="center">All the languages and tools i can work with 👇</h2>
+
+<p align="center" />
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"   height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
+</a>
+
+
+
+
+
+</p>
+
 <h2 align="center">
   <img justify-self="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ4ZWQzNTg5YTYwNDFjMTYzOGJhNzE4MzIzNmM4NDU1ZDA3NjI5YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WZ4M8M2VbauEo/giphy.gif" width="300px"/>
 </h2>
+<h2 align="center"> All the links you have ever wanted! 👇 <br></h2>
 
-<a href="https://twitter.com/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@My twitter" height="30" width="40" /></a>
-
+<p align="center">
+  <a href="https://twitter.com/@Everos__E" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="My       Twitter" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/everos.e.yt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"     alt="My Instagram" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/erfan-karimipour-b4b64126a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linked In" height="30" width="40" /></a>
+</p>
 <!-- **Erfan-Karimipour/Erfan-Karimipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
