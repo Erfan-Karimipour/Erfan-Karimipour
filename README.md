@@ -5,7 +5,7 @@
 <h3 align="center" font="B60000" border="5px solid B60000"> If you are interested in what i can do, keep reading this article! </h3>
 
 <br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erfan-karimipour&label=Profile%20views&color=0e75b6&style=flat" alt="Erfan Karimipour" /> </p>
 <div>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZiMDJmMmVjZDc0OTI5YTQ2NGNjM2ExYjNlYzRlYzdmOTA2OGMxYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/l378xVg7JY3tefx3W/giphy.gif" width="12px"/>
   Lets Start with a quick summary:
