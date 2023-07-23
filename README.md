@@ -1,7 +1,7 @@
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=B60000&height=100&section=header)
 ![](https://githubraw.com/CodeWhiteWeb/CodeWhiteWeb/output/github-contribution-grid-snake.svg)
-<h1 align="center" font="B60000" border="5px solid B60000"> Hi, My name is Erfan, but you can call me E :)                     </h1>
+<h1 align="center" font="B60000" border="5px solid B60000"> Hi, My name is Erfan, and Im a junior Front-End developer  </h1>
 <h3 align="center" font="B60000" border="5px solid B60000"> If you are interested in what i can do, keep reading this article! </h3>
 
 <br>
