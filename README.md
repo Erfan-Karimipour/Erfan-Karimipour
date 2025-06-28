@@ -18,7 +18,7 @@
    - 🌱 I’m currently learning Next JS.
    - ✉ You can contact me from programming1402@gmail.com or just send a direct massage in my Instagram/LinkIn
    - 🏢 I haven't worked at any companies. Yet...
-
+<br><br>
 
 <h2 align="center">Some the languages and tools i can work with 👇</h2>
 
@@ -36,7 +36,7 @@
 </a>
 </a>
 </p>
-
+<br><br>
 <div align="center">
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan-Karimipour&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact'>
 </div>
